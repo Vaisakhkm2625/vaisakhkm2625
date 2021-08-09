@@ -1,6 +1,15 @@
 ### Hi there 👋
+## I am Vaisakh!
 
 
+🙃️ I like coding(a lot) and really like to learn...
+
+The language i most like is c++ but 😥️ currenly i am not working on it.
+And second is JS.... (Ya!... it's a weird language, but i like it)
+
+also I ❤️ Java,python,asm... 
+
+<!--
 **Vaisakhkm2625/vaisakhkm2625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
