@@ -10,7 +10,7 @@ And second is JS.... (Ya!... it's a weird language, but i like it)
 also I ❤️ Java,python,asm... 
 
 
-💻️(and **linux lover**...and supports .. *free software and open source movement*)
+<!--💻️(and **linux lover**...and supports .. *free software and open source movement*)-->
 <!--
 **Vaisakhkm2625/vaisakhkm2625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
