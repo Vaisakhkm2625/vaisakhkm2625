@@ -2,12 +2,7 @@
 ## I am Vaisakh!
 
 
-🙃️ I like coding(a lot) and really like to learn...
-
-The language i most like is c++ but 😥️ currenly i am not working on it.
-And second is JS.... (Ya!... it's a weird language, but i like it)
-
-also I ❤️ Java,python,asm... 
+🙃️ I like coding(a lot) and really like to learn new technologies...
 
 
 💻️(and **linux lover**...and supports .. *free software and open source movement*)
