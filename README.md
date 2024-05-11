@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋! My name Vaisakh.... and i love FOSS....</h2>
+<h2 align="center">Hi 👋! My name Vaisakh.... and i love Linux....</h2>
 
 ###
 
