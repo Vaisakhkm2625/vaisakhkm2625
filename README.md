@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name Vaisakh.... and i love FOSS....</h2>
+<h2 align="center">Hi 👋! My name Vaisakh.... and i love FOSS....</h2>
 
 ###
 
@@ -14,6 +14,8 @@
 </div>
 
 <img align="right" height="150" src="https://github.com/Vaisakhkm2625/vaisakhkm2625/assets/68694876/104ca302-942e-4219-a442-a46fb92ad3d0"  />
+
+<h3 align="center">Checkout my personal site <a href="https://me.linuxwith.in" target="_blank">LinuxWithIn</a></h3>
 
 ###
 
@@ -50,6 +52,9 @@
 ###
 
 <div align="left">
+<a href="https://me.linuxwith.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=linuxWithIn&logo=linux&label=&color=744BCC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
   <a href="vaisakhkm-public-mailbox.nyelc@aleeas.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -59,9 +64,7 @@
   <a href="https://discord.gg/SZdmaGUk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-<a href="https://me.linuxwith.in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linuxWithIn&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+
 </div>
 
 ###
