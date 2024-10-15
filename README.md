@@ -61,7 +61,7 @@
   <a href="https://stackoverflow.com/users/15070114/vaisakh-k-m" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="https://discord.gg/SZdmaGUk" target="_blank">
+  <a href="https://discord.gg/ZjM8CE8BKG" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 
