@@ -6,7 +6,7 @@
 🙃️ I like coding(a lot) and really like to learn new technologies...
 
 
-💻️(and **linux lover**...and supports .. *free software and open source movement*)
+💻️(and **linux lover**...and passionate about *free software and open source softwares*)
 <div align="center">
  <!-- <img src="https://github-readme-stats-one-drab-75.vercel.app/api?username=vaisakhkm2625&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 <img src="https://github-readme-stats-one-drab-75.vercel.app/api?username=vaisakhkm2625&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
